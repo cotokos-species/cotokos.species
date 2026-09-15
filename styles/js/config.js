@@ -15,9 +15,9 @@ let charadex = {};
 /* Any preview links will still show Charadex's information
 /* ==================================================================== */
 charadex.site = {
-  title: "Charadex",
-  url: "https://charadex-team.github.io/charadex-v1.0/",
-  description: `A tool for organizing small ARPGs and species.`
+  title: "COTOKOS ARPG",
+  url: "https://cotokos-species.github.io/cotokos.species/",
+  description: `A CS ARPG`
 }
 
 /* ==================================================================== */

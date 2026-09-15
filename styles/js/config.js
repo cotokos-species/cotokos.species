@@ -16,7 +16,7 @@ let charadex = {};
 /* ==================================================================== */
 charadex.site = {
   title: "COTOKOS ARPG",
-  url: "https://cotokos-species.github.io/cotokos.species/",
+  url: "https://cotokosarpg.netlify.app/",
   description: `A CS ARPG`
 }
 
